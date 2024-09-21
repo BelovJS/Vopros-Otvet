@@ -1,0 +1,33 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.paragraf {
+    margin-bottom: 4px;
+}
+
+.js-button {
+    width: 80px;
+    border: 2px solid green;
+    border-radius: 3px;
+}
+.js-button:hover {
+    background: rgb(175, 221, 234);
+    border: 2px solid green;
+    border-radius: 3px;
+}
+.js-input {
+    background: rgb(195, 246, 226);
+    width: 150px;
+    font-weight: 500 ;
+    border: 2px solid green;
+    border-radius: 3px;
+}
+.js-input:hover {
+    background: rgb(152, 215, 232);
+}
+.js-output {
+    font-size: 14px;
+    margin-top: 3px;
+    margin-left: 3px;
+    color: blue;
+}
